@@ -80,7 +80,7 @@
 
 | Date           | Topics                                                | Detailed Focus                                                        | Notes                                | Done  ✅ ⛔|
 |----------------|-------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------|------|
-| **Jul 24**     | Unit Testing: xUnit                                   | Setup, Basic Tests, Assertions, Test Structure                        | ❚█══█❚                                    |     |
+| **Jul 24**     | Unit Testing: xUnit                                   | Setup, Basic Tests, Assertions, Test Structure                        | ❚█══█❚                                    |  56%   |
 | **Jul 25**     | Data Structures & Algorithms Class                    | **Class Focus:** Chapter 3 of Grokking Algorithms                     | Review on Algorithms                 |     |
 | **Jul 26**     | Unit Testing: FluentValidation, Moq                   | Validating Models, Mocking Dependencies, Verifying Interactions       |                                      |      |
 | **Jul 27**     | C#: Equality, Reference/Value Types                   | Value Equality, Reference Equality, Comparing Objects                 | ❚█══█❚             |      |
