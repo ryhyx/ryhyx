@@ -80,53 +80,52 @@
 
 | Date           | Topics                                                | Detailed Focus                                                        | Notes                                | Done  ✅ ⛔ ❌|
 |----------------|-------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------|------|
-| **Jul 24**     | Unit Testing: xUnit                                   | Setup, Basic Tests, Assertions, Test Structure                        | ❚█══█❚                                    |27jul-56%|
-| **Jul 25**     | Data Structures & Algorithms Class                    | **Class Focus:** Chapter 3 of Grokking Algorithms                     | Review on Algorithms                 |28-29jul-Merge Sort|
-| **Jul 26**     | Unit Testing: FluentValidation, Moq                   | Validating Models, Mocking Dependencies, Verifying Interactions       |                                      ||
-| **Jul 27**     | C#: Equality, Reference/Value Types                   | Value Equality, Reference Equality, Comparing Objects                 | ❚█══█❚             |      |
-| **Jul 28**     | C#: Access Modifiers, Debugging                       | Public, Private, Protected, Debugging Tools and Techniques            |                                      |      |
-| **Jul 29**     | C#: Error Handling, Enums                             | Try/Catch, Custom Exceptions, Enum Usage                              | ❚█══█❚             |      |
-| **Jul 30**     | C#: Collections                                       | Lists, Dictionaries, Sets, Iteration Techniques                       |                                      |      |
-| **Jul 31**     | C#: Generics, Static                                  | Generic Methods, Classes, Static Members and Classes                  | ❚█══█❚             |      |
-| **Aug 1**      | Data Structures & Algorithms Class                    | **Class Focus:** Chapter 4 of Grokking Algorithms                     | Review on Algorithms                 |29jul-recursive-30jul Master theorem|
-| **Aug 2**      | C#: Extension Methods, var                            | Writing Extensions, Type Inference, Best Practices                    |                                      |      |
-| **Aug 3**      | C#: Classes, Interfaces                               | Class Inheritance, Interface Implementation                           | ❚█══█❚              |      |
-| **Aug 4**      | C#: Dynamic                                           | Using dynamic                                                         |                                      |      |
-| **Aug 5**      | C#: Delegates, Events                                 | Delegates Syntax, Multicast Delegates, Event Handling                 | ❚█══█❚              |      |
-| **Aug 6**      | OOP: Encapsulation, Abstraction                       | Data Hiding, Interface Design, Abstract Classes                       |                                      |      |
-| **Aug 7**      | OOP: Polymorphism, Inheritance                        | Method Overriding, Base and Derived Classes                           | ❚█══█❚               |      |
-| **Aug 8**      | Data Structures & Algorithms Class                    | **Class Focus:** Chapter 5 of Grokking Algorithms                     | Review on Algorithms                 |      |
-| **Aug 9**      | .NET: IL, CLI, CTS, History                           | Understanding the .NET Intermediate Language, Common Language Infrastructure, Common Type System |      |      |
-| **Aug 10**     | .NET: Assemblies, Components                          | Assembly Structure, Strong Naming, GAC                                | ❚█══█❚, session1 Rox       |      |
-| **Aug 11**     | Data Structures: Arrays, Linked Lists                 | Array Operations, Linked List Implementation                          |                                      |      |
-| **Aug 12**     | Data Structures: Stacks, Queues                       | Stack Implementation, Queue Operations                                | ❚█══█❚              |      |
-| **Aug 13**     | Data Structures: Trees                                | Binary Trees, Tree Traversal Techniques                               |                                      |      |
-| **Aug 14**     | C#: Boxing, Unboxing, Casting                         | Boxing/Unboxing, Upcasting, Downcasting                               | ❚█══█❚              |      |
-| **Aug 15**     | C#: Overloading, Overriding                           | Method Overloading, Method Overriding                                 |                                      |      |
-| **Aug 16**     | SQL: Create (Table, View, SP, Function, DB), Data Model | Syntax for Creating, Altering Structures                              | ❚█══█❚, types of relations       |      |
-| **Aug 17**     | SQL: CRUD Operations, Triggers                        | SELECT, INSERT, UPDATE, DELETE                                        |                                      |      |
-| **Aug 18**     | SQL: While, Data Types                                | Loops in SQL, Choosing Data Types, Conversions                        | ❚█══█❚              |      |
-| **Aug 19**     | LINQ: Basics, Query Syntax                            | LINQ Queries, Filtering, Sorting                                      |                                      |      |
-| **Aug 20**     | LINQ: Method Syntax, Lambda Expressions               | Extension Methods, Lambdas, Expression Trees                          | ❚█══█❚              |      |
-| **Aug 21**     | LINQ: Grouping, Joins                                 | GroupBy, Inner Join, Left Join                                        |                                      |      |
-| **Aug 22**     | NHibernate: Introduction to ORM                       | Basic Concepts, Advantages, Installation                              | ❚█══█❚               |      |
-| **Aug 23**     | NHibernate: Configuration, Mapping                    | Configuring NHibernate, Mapping Classes to DB                         |                                      |      |
-| **Aug 24**     | NHibernate: Querying (IQueryOver, QueryOver), Variance | Advanced Querying Techniques, Variance in NHibernate                  | ❚█══█❚               |      |
-| **Aug 25**     | HTTPS: Headers, Authentication Methods                | Common Headers, Basic Auth, OAuth, JWT                                | ❚█══█❚              |      |
-| **Aug 26**     | HTTPS: Cookies, Secure Communication                  | Cookie Management, HTTPS, SSL/TLS                                     |                                      |      |
-| **Aug 27**     | Git: Basics (Clone, Commit, Push, Pull)               | Repository Setup, Basic Commands                                      | ❚█══█❚              |      |
-| **Aug 28**     | Git: Branching, Merging                               | Branching Strategies, Merge Conflicts                                 |                                      |      |
-| **Aug 29**     | Git: Resolving Conflicts, Advanced Features           | Stashing, Rebase, Cherry-pick                                         | ❚█══█❚               |      |
-| **Aug 30**     | C#: Sealed, Immutable Types                           | Sealed Classes, Immutable Types                                       |                                      |      |
-| **Aug 31**     | C#: Tuples, Collection: GetHashCode, Equals           | Tuple Usage, Collection Equality, GetHashCode, Equals                 | ❚█══█❚               |      |
-| **Sep 1**      | Design Patterns: Singleton, Factory                   | Concepts and Implementation in C#                                     |                                      |      |
-| **Sep 2**      | Design Patterns: Adapter, Observer                    | Use Cases, Coding Examples                                            | ❚█══█❚               |      |
-| **Sep 3**      | Design Patterns: Repository, Singleton Repository     | Implementation and Use Cases                                          |                                      |      |
-| **Sep 4**      | Review: C#, OOP                                       | Key Concepts, Practice Problems                                       | ❚█══█❚              |      |
-| **Sep 5**      | Review: Data Structures, SQL                          | Core Data Structures, Complex Queries                                 | ❚█══█❚               |      |
-| **Sep 6**      | Review: LINQ, NHibernate                              | LINQ Queries, NHibernate Usage                                        |                                      |      |
-| **Sep 7**      | **Interview Day**                                     |                                                                        |                                      |      |
-
+| *Jul 24*     | Unit Testing: xUnit                                   | Setup, Basic Tests, Assertions, Test Structure                        | ❚█══█❚                                    |27jul-56%|
+| *Jul 25*     | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 3 of Grokking Algorithms                     | Review on Algorithms                 |28-29jul-Merge Sort|
+| *Jul 26*     | Unit Testing: FluentValidation, Moq                   | Validating Models, Mocking Dependencies, Verifying Interactions       |                                      ||
+| *Jul 27*     | C#: Equality, Reference/Value Types                   | Value Equality, Reference Equality, Comparing Objects                 | ❚█══█❚             |      |
+| *Jul 28*     | C#: Access Modifiers, Debugging                       | Public, Private, Protected, Debugging Tools and Techniques            |                                      |      |
+| *Jul 29*     | C#: Error Handling, Enums                             | Try/Catch, Custom Exceptions, Enum Usage                              | ❚█══█❚             |      |
+| *Jul 30*     | C#: Collections                                       | Lists, Dictionaries, Sets, Iteration Techniques                       |                                      |      |
+| *Jul 31*     | C#: Generics, Static                                  | Generic Methods, Classes, Static Members and Classes                  | ❚█══█❚             |      |
+| *Aug 1*      | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 4 of Grokking Algorithms                     | Review on Algorithms                 |29jul-recursive-30jul Master theorem|
+| *Aug 2*      | C#: Extension Methods, var                            | Writing Extensions, Type Inference, Best Practices                    |                                      |      |
+| *Aug 3*      | C#: Classes, Interfaces                               | Class Inheritance, Interface Implementation                           | ❚█══█❚              |      |
+| *Aug 4*      | C#: Dynamic                                           | Using dynamic                                                         |                                      |      |
+| *Aug 5*      | C#: Delegates, Events                                 | Delegates Syntax, Multicast Delegates, Event Handling                 | ❚█══█❚              |      |
+| *Aug 6*      | OOP: Encapsulation, Abstraction                       | Data Hiding, Interface Design, Abstract Classes                       |                                      |      |
+| *Aug 7*      | OOP: Polymorphism, Inheritance                        | Method Overriding, Base and Derived Classes                           | ❚█══█❚               |      |
+| *Aug 8*      | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 5 of Grokking Algorithms                     | Review on Algorithms                 |      |
+| *Aug 9*      | .NET: IL, CLI, CTS, History                           | Understanding the .NET Intermediate Language, Common Language Infrastructure, Common Type System |      |      |
+| *Aug 10*     | .NET: Assemblies, Components                          | Assembly Structure, Strong Naming, GAC                                | ❚█══█❚, session1 Rox       |      |
+| *Aug 11*     | Data Structures: Arrays, Linked Lists                 | Array Operations, Linked List Implementation                          |                                      |      |
+| *Aug 12*     | Data Structures: Stacks, Queues                       | Stack Implementation, Queue Operations                                | ❚█══█❚              |      |
+| *Aug 13*     | Data Structures: Trees                                | Binary Trees, Tree Traversal Techniques                               |                                      |      |
+| *Aug 14*     | C#: Boxing, Unboxing, Casting                         | Boxing/Unboxing, Upcasting, Downcasting                               | ❚█══█❚              |      |
+| *Aug 15*     | C#: Overloading, Overriding                           | Method Overloading, Method Overriding                                 |                                      |      |
+| *Aug 16*     | SQL: Create (Table, View, SP, Function, DB), Data Model | Syntax for Creating, Altering Structures                              | ❚█══█❚, types of relations       |      |
+| *Aug 17*     | SQL: CRUD Operations, Triggers                        | SELECT, INSERT, UPDATE, DELETE                                        |                                      |      |
+| *Aug 18*     | SQL: While, Data Types                                | Loops in SQL, Choosing Data Types, Conversions                        | ❚█══█❚              |      |
+| *Aug 19*     | LINQ: Basics, Query Syntax                            | LINQ Queries, Filtering, Sorting                                      |                                      |      |
+| *Aug 20*     | LINQ: Method Syntax, Lambda Expressions               | Extension Methods, Lambdas, Expression Trees                          | ❚█══█❚              |      |
+| *Aug 21*     | LINQ: Grouping, Joins                                 | GroupBy, Inner Join, Left Join                                        |                                      |      |
+| *Aug 22*     | NHibernate: Introduction to ORM                       | Basic Concepts, Advantages, Installation                              | ❚█══█❚               |      |
+| *Aug 23*     | NHibernate: Configuration, Mapping                    | Configuring NHibernate, Mapping Classes to DB                         |                                      |      |
+| *Aug 24*     | NHibernate: Querying (IQueryOver, QueryOver), Variance | Advanced Querying Techniques, Variance in NHibernate                  | ❚█══█❚               |      |
+| *Aug 25*     | HTTPS: Headers, Authentication Methods                | Common Headers, Basic Auth, OAuth, JWT                                | ❚█══█❚              |      |
+| *Aug 26*     | HTTPS: Cookies, Secure Communication                  | Cookie Management, HTTPS, SSL/TLS                                     |                                      |      |
+| *Aug 27*     | Git: Basics (Clone, Commit, Push, Pull)               | Repository Setup, Basic Commands                                      | ❚█══█❚              |      |
+| *Aug 28*     | Git: Branching, Merging                               | Branching Strategies, Merge Conflicts                                 |                                      |      |
+| *Aug 29*     | Git: Resolving Conflicts, Advanced Features           | Stashing, Rebase, Cherry-pick                                         | ❚█══█❚               |      |
+| *Aug 30*     | C#: Sealed, Immutable Types                           | Sealed Classes, Immutable Types                                       |                                      |      |
+| *Aug 31*     | C#: Tuples, Collection: GetHashCode, Equals           | Tuple Usage, Collection Equality, GetHashCode, Equals                 | ❚█══█❚               |      |
+| *Sep 1*      | Design Patterns: Singleton, Factory                   | Concepts and Implementation in C#                                     |                                      |      |
+| *Sep 2*      | Design Patterns: Adapter, Observer                    | Use Cases, Coding Examples                                            | ❚█══█❚               |      |
+| *Sep 3*      | Design Patterns: Repository, Singleton Repository     | Implementation and Use Cases                                          |                                      |      |
+| *Sep 4*      | Review: C#, OOP                                       | Key Concepts, Practice Problems                                       | ❚█══█❚              |      |
+| *Sep 5*      | Review: Data Structures, SQL                          | Core Data Structures, Complex Queries                                 | ❚█══█❚               |      |
+| *Sep 6*      | Review: LINQ, NHibernate                              | LINQ Queries, NHibernate Usage                                        |                                      |      |
+| *Sep 7*      | *Interview Day*                                     |                                                                        |                                      |      |
 
 
 ###
