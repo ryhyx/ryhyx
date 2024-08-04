@@ -86,7 +86,7 @@
 | *Jul 27*     | C#: Equality, Reference/Value Types                   | Value Equality, Reference Equality, Comparing Objects                 | ❚█══█❚             |      |
 | *Jul 28*     | C#: Access Modifiers, Debugging                       | Public, Private, Protected, Debugging Tools and Techniques            |                                      |      |
 | *Jul 29*     | C#: Error Handling, Enums                             | Try/Catch, Custom Exceptions, Enum Usage                              | ❚█══█❚             |      |
-| *Jul 30*     | C#: Collections                                       | Lists, Dictionaries, Sets, Iteration Techniques                       |                                      |      |
+| *Jul 30*     | C#: Collections                                       | Lists, Dictionaries, Sets, Iteration Techniques                       |                                      |1Aug till 4Aug +this/base/strongly type/yield/copy|
 | *Jul 31*     | C#: Generics, Static                                  | Generic Methods, Classes, Static Members and Classes                  | ❚█══█❚             |      |
 | *Aug 1*      | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 4 of Grokking Algorithms                     | Review on Algorithms                 |29jul-recursive-30jul Master theorem|
 | *Aug 2*      | C#: Extension Methods, var                            | Writing Extensions, Type Inference, Best Practices                    |                                      |      |
