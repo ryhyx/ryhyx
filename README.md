@@ -90,10 +90,10 @@
 | *Jul 31*     | C#: Generics, Static                                  | Generic Methods, Classes, Static Members and Classes                  | ❚█══█❚             |      |
 | *Aug 1*      | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 4 of Grokking Algorithms                     | Review on Algorithms                 |29jul-recursive-30jul Master theorem|
 | *Aug 2*      | C#: Extension Methods, var                            | Writing Extensions, Type Inference, Best Practices                    |                                      |      |
-| *Aug 3*      | C#: Classes, Interfaces                               | Class Inheritance, Interface Implementation                           | ❚█══█❚              |      |
-| *Aug 4*      | C#: Dynamic                                           | Using dynamic                                                         |                                      |      |
-| *Aug 5*      | C#: Delegates, Events                                 | Delegates Syntax, Multicast Delegates, Event Handling                 | ❚█══█❚              |      |
-| *Aug 6*      | OOP: Encapsulation, Abstraction                       | Data Hiding, Interface Design, Abstract Classes                       |                                      |      |
+| *Aug 3*      | C#: Classes, Interfaces                               | Class Inheritance, Interface Implementation                           | ❚█══█❚              |7Aug|
+| *Aug 4*      | C#: Dynamic                                           | Using dynamic                                                         |                                      |6Aug|
+| *Aug 5*      | C#: Delegates, Events                                 | Delegates Syntax, Multicast Delegates, Event Handling                 | ❚█══█❚              |                       |
+| *Aug 6*      | OOP: Encapsulation, Abstraction                       | Data Hiding, Interface Design, Abstract Classes                       |                                      |interface/abstraction/collection/dynamic|
 | *Aug 7*      | OOP: Polymorphism, Inheritance                        | Method Overriding, Base and Derived Classes                           | ❚█══█❚               |      |
 | *Aug 8*      | Data Structures & Algorithms Class                    | *Class Focus:* Chapter 5 of Grokking Algorithms                     | Review on Algorithms                 |      |
 | *Aug 9*      | .NET: IL, CLI, CTS, History                           | Understanding the .NET Intermediate Language, Common Language Infrastructure, Common Type System |      |      |
